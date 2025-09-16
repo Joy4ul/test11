@@ -1,6 +1,5 @@
 package com.example.demo;
 
-public class test62 {
+public class seoyun {
 
-	
 }
